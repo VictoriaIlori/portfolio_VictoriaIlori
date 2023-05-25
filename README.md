@@ -10,7 +10,7 @@
   - [Dice Roller](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>()</b></i>
 - <b>Analysing Business Problems with Tableau, PowerBI and Tableau Prep</b>
   - [Supplier and Supply Chain Analysis](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Data Cleaning Projects)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Data Cleaning Projects](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Olist Data Set Project (#DataChallenge)](https://github.com/joshmadakor1/AD_PS)
  - <b>Machine Learning (Alteryx)</b>
   - [Predicting Patient's Lenght of Stay(NHS Data)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
