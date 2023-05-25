@@ -20,6 +20,10 @@
   - [Social Media Management](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Resume</b>
   - [Victoria Ilori]( https://docs.google.com/document/d/19g_iUf1pjwdzgWF8tI_lK1rMmtyIr44q/edit?usp=sharing&ouid=114857301470125427254&rtpof=true&sd=true)
+- <b>Certifications</b>
+- [Google Analytics](https://drive.google.com/file/d/18esCxIzXIbDZYa3TXm65hDM2uDpGWqMS/view?usp=sharing)
+- [Data Visualization with PowerBI](https://olympus.mygreatlearning.com/courses/30824/certificate)
+- [Lean Six Sigma](https://drive.google.com/file/d/1rqhXfIJSweHjSRfywXYkCp3hijSnp8Q-/view?usp=sharing)
 
 <h2>📺 Popular YouTube Videos</h2>
 
