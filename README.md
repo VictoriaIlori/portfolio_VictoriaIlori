@@ -4,7 +4,7 @@
 
 - <b>Python Projects (Python)</b>
   - [Analysing Craft Beer Market](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Python Fast Food Purchase and Payment Simulation](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Python Fast Food Purchase and Payment Simulation](https://github.com/VictoriaModupeIlori/eCommerce_chechout/tree/main)
   - [Data Cleaning Projects](https://github.com/joshmadakor1/Jwipe.PowerShell)
 - <b>Dice Roller Simulation (Python basic functions)</b>
   - [Dice Roller](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>()</b></i>
