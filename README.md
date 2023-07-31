@@ -1,4 +1,4 @@
-<h1>Hi, I'm Victoria! <br/><a href="https://github.com/VictoriaModupeIlori">Business Analyst</a>, <a href="https://www.linkedin.com/in/victoriailori/">Digital Marketing</a>, <a href="https://docs.google.com/document/d/1i20nSE5TtULnTvZ53nGIJ3VvrUvvGP6OPb_gzTXgxqw/edit?usp=sharing">Content Marketing</a></h1>
+<h1>Hi, I'm Victoria! <br/><a href="https://github.com/VictoriaModupeIlori">Business Analyst</a>, <a href="https://www.linkedin.com/in/victoriailori/">Marketing Analyst</a>, <a href="https://docs.google.com/document/d/1i20nSE5TtULnTvZ53nGIJ3VvrUvvGP6OPb_gzTXgxqw/edit?usp=sharing">Content Marketing</a></h1>
 
 <h2>👨‍💻 Business Analysis Projects:</h2>
 
